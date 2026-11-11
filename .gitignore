@@ -1,0 +1,14 @@
+node_modules/
+.next/
+out/
+build/
+.env
+.env.local
+.env*.local
+supabase/.temp/
+supabase/.branches/
+.vercel/
+*.tsbuildinfo
+Hiss .txt
+.DS_Store
+Thumbs.db
